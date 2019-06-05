@@ -24,6 +24,15 @@ html, body {
     
 }
 
+#sidebar a {
+    text-decoration: none;
+    color: white;
+}
+#sidebar a:hover {
+    font-weight: bolder;
+    color: yellow;
+}
+
 main {
     color: khaki;
     background-color: #404040;
