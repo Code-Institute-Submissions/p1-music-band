@@ -1,3 +1,8 @@
+/* --- Fonts from Google --- */
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+
+/* --- Styling code from below onward --- */
 #sidebar {
     position: fixed;
     top: 0;
@@ -10,21 +15,7 @@
     
 }
 
-#sidebar a {
-    color: white;
-    font-size: 20px;
-    
-    display: block;
-    text-decoration: none;
-    text-align: center;
-}
-#sidebar a:hover {
-    font-weight: bolder;
-    color: yellow;
-}
-
 #navbar {
-    background-color: #22211B;
     margin: 0 auto;
     width: 200px;
     height: 300px;
@@ -32,9 +23,26 @@
     top: 50%;
     transform: translateY(-50%);
 }
+#navbar a {
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    
+    padding: 10px 0;
+}
+#navbar a:hover {
+    color: yellow;
+    font-weight: bolder;
+    
+}
 
 #m-logo {
-    
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 main {
@@ -43,9 +51,6 @@ main {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*background-color: #404040;*/
-    
-    height: 100vh;
     
     overflow-x: hidden;
     overflow-y: scroll;
@@ -53,4 +58,5 @@ main {
     
     margin-left: 250px;
     padding: 0;
+    height: 100vh;
 }
