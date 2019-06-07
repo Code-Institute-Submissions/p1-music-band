@@ -21,7 +21,11 @@
 
 main {
     color: khaki;
-    background-color: #404040;
+    background-image: url("images/maroon5-wall.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: #404040;*/
     
     height: 100vh;
     
