@@ -45,9 +45,27 @@
     padding-bottom: 25px;
 }
 
-main {
-    color: khaki;
+/* --- Wallpaper in different web pages --- */
+/* home.html */
+#home-bg {
     background-image: url("images/maroon5-wall.jpg");
+}
+
+/* contact.html */
+#contact-bg {
+    background-image: url("images/contact-wall.jpg");
+}
+
+.contact-form {
+    width: 500px;
+    height: 500px;
+    
+    background-color: white;
+    
+}
+
+main {
+    /*color: khaki;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
