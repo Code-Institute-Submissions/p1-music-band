@@ -58,10 +58,15 @@
 
 .contact-form {
     width: 500px;
-    height: 500px;
-    
     background-color: white;
     
+    position: relative;
+    margin: 0 auto;
+    transform: translateY(-50%);
+    top: 50%;
+    
+    padding: 30px;
+    border-radius: 10px;
 }
 
 main {
