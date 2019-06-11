@@ -7,8 +7,8 @@
     position: fixed;
     top: 0;
     
-    min-width: 250px;
-    max-width: 250px;
+    min-width: 300px;
+    max-width: 300px;
     height: 100vh;
     
     background-color: #100F0D;
@@ -17,8 +17,8 @@
 
 #navbar {
     margin: 0 auto;
-    width: 200px;
-    height: 300px;
+    width: 300px;
+    height: 500px;
     
     top: 50%;
     transform: translateY(-50%);
@@ -41,8 +41,7 @@
 }
 
 #m-logo {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    margin-bottom: 40px;
 }
 
 /* --- Wallpaper in different web pages --- */
@@ -68,7 +67,7 @@
     padding: 30px;
     border-radius: 10px;
     
-    filter: opacity(50%);
+    opacity: 0.95;
 }
 
 main {
@@ -81,7 +80,7 @@ main {
     overflow-y: scroll;
     position: absolute;
     
-    margin-left: 250px;
+    margin-left: 300px;
     padding: 0;
     height: 100vh;
 }
