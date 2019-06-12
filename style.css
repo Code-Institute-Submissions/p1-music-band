@@ -3,6 +3,7 @@
 
 
 /* --- Styling code from below onward --- */
+/* --- ids --- */
 #sidebar {
     position: fixed;
     top: 0;
@@ -55,6 +56,23 @@
     background-image: url("images/contact-wall.jpg");
 }
 
+/* --- Attributes specific in different pages ---*/
+/* --- about.html --- */
+#about article div {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    
+    margin: 0;
+    padding: 20px;
+    
+    text-align: justify;
+}
+#about article div h1 {
+    margin-bottom: 25px;
+}
+
+
+/* --- classes --- */
 .contact-form {
     width: 500px;
     background-color: white;
