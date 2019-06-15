@@ -71,6 +71,9 @@
 #about article div h1 {
     margin-bottom: 25px;
 }
+#about article div hr {
+    margin: 50px auto;
+}
 
 
 /* --- classes --- */

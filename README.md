@@ -62,4 +62,4 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 
 ## Acknowledgements
 1. Pexels.com       ==> Provided free high-definition photos
-2. w3schools.com    ==> 
+2. w3schools.com    ==> HTML & CSS reference site
