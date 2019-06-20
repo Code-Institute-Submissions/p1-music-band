@@ -55,10 +55,32 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 
 
 ## Media
+#### Photos
 * maroon5-wall.jpg ==> https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200
 * maroon5-logo.jpg ==> https://weheartit.com/entry/165218754
 * contact-wall.jpg ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
 
+#### Videos
+1. maroon 5 - sugar                          ==> https://youtu.be/09R8_2nJtjg
+2. maroon 5 - animals                        ==> https://youtu.be/qpgTC9MDx1o
+3. maroon 5 - this love                      ==> https://youtu.be/XPpTgCho5ZA
+4. maroon 5 - i won't go home without you    ==> https://youtu.be/VlMEGBsw6j8
+5. maroon 5 - love somebody                  ==> https://youtu.be/MU8B4XDI3Uw
+6. maroon 5 - one more night                 ==> https://youtu.be/fwK7ggA3-bU
+7. maroon 5 - she will be loved              ==> https://youtu.be/nIjVuRTm-dc
+8. maroon 5 - misery                         ==> https://youtu.be/6g6g2mvItp4
+9. maroon 5 - moves like jagger              ==> https://youtu.be/iEPTlhBmwRg
+
+#### Audios
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
 
 ## Acknowledgements
 1. Pexels.com       ==> Provided free high-definition photos
