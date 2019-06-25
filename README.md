@@ -61,6 +61,7 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 * contact-wall.jpg ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
 * videos-wall.jpg  ==> https://www.pexels.com/photo/people-in-concert-1763075/
 * music-wall.jpg   ==> https://www.pexels.com/photo/macro-shot-audio-equalizer-744318/
+* photos-wall.jpg  ==> https://www.pexels.com/photo/group-of-people-inside-disco-house-167491/
 
 #### Videos
 1. maroon 5 - sugar                          ==> https://youtu.be/09R8_2nJtjg
