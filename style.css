@@ -66,6 +66,11 @@
     background-image: url("images/music-wall.jpg");
 }
 
+/* photos.html */
+#photos {
+    background-image: url("images/photos-wall.jpg");
+}
+
 /* --- Attributes specific in different pages ---*/
 /* --- about.html --- */
 #about article div {
@@ -83,12 +88,6 @@
 }
 #about article div hr {
     margin: 50px auto;
-}
-
-/* --- videos.html --- */
-#videos h1 {
-    font-family: 'Quicksand', sans-serif;
-    color: white;
 }
 
 
@@ -110,6 +109,7 @@
     opacity: 0.95;
 }
 
+
 main {
     /*color: khaki;*/
     background-position: center;
@@ -128,4 +128,8 @@ main {
 iframe {
     width: 450px;
     height: 315px;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;    
 }
