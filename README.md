@@ -59,6 +59,8 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 * maroon5-wall.jpg ==> https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200
 * maroon5-logo.jpg ==> https://weheartit.com/entry/165218754
 * contact-wall.jpg ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
+* videos-wall.jpg  ==> https://www.pexels.com/photo/people-in-concert-1763075/
+* 
 
 #### Videos
 1. maroon 5 - sugar                          ==> https://youtu.be/09R8_2nJtjg
