@@ -47,18 +47,23 @@
 
 /* --- Wallpaper in different web pages --- */
 /* home.html */
-#home-bg {
+#home {
     background-image: url("images/maroon5-wall.jpg");
 }
 
 /* contact.html */
-#contact-bg {
+#contact {
     background-image: url("images/contact-wall.jpg");
 }
 
 /* videos.html */
-#videos-bg {
+#videos {
     background-image: url("images/videos-wall.jpg");
+}
+
+/* music.html */
+#music {
+    background-image: url("images/music-wall.jpg");
 }
 
 /* --- Attributes specific in different pages ---*/
@@ -81,7 +86,7 @@
 }
 
 /* --- videos.html --- */
-#videos-bg h1 {
+#videos h1 {
     font-family: 'Quicksand', sans-serif;
     color: white;
 }
