@@ -108,3 +108,8 @@ main {
     padding: 0;
     height: 100vh;
 }
+
+iframe {
+    width: 450px;
+    height: 315px;
+}
