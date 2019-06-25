@@ -109,7 +109,7 @@
     opacity: 0.95;
 }
 
-
+/* --- General attributes --- */
 main {
     /*color: khaki;*/
     background-position: center;
@@ -125,6 +125,7 @@ main {
     height: 100vh;
 }
 
+/* --- For the video frames in videos.html page --- */
 iframe {
     width: 450px;
     height: 315px;
