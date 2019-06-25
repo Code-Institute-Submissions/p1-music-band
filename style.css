@@ -56,6 +56,11 @@
     background-image: url("images/contact-wall.jpg");
 }
 
+/* videos.html */
+#videos-bg {
+    background-image: url("images/videos-wall.jpg");
+}
+
 /* --- Attributes specific in different pages ---*/
 /* --- about.html --- */
 #about article div {
@@ -73,6 +78,12 @@
 }
 #about article div hr {
     margin: 50px auto;
+}
+
+/* --- videos.html --- */
+#videos-bg h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
 }
 
 
