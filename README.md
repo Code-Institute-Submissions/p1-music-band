@@ -57,12 +57,22 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 
 ## Media
 #### Photos
-* maroon5-wall.jpg ==> https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200
-* maroon5-logo.jpg ==> https://weheartit.com/entry/165218754
-* contact-wall.jpg ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
-* videos-wall.jpg  ==> https://www.pexels.com/photo/people-in-concert-1763075/
-* music-wall.jpg   ==> https://www.pexels.com/photo/macro-shot-audio-equalizer-744318/
-* photos-wall.jpg  ==> https://www.pexels.com/photo/group-of-people-inside-disco-house-167491/
+* maroon5-wall.jpg  ==> https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200
+* maroon5-logo.jpg  ==> https://weheartit.com/entry/165218754
+* contact-wall.jpg  ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
+* videos-wall.jpg   ==> https://www.pexels.com/photo/people-in-concert-1763075/
+* music-wall.jpg    ==> https://www.pexels.com/photo/macro-shot-audio-equalizer-744318/
+* photos-wall.jpg   ==> https://www.pexels.com/photo/group-of-people-inside-disco-house-167491/
+* maroon5-01.jpg    ==> https://www.grammy.com/sites/com/files/styles/image_landscape_hero/public/maroon5-hero-454113014.jpg?itok=cMFbww2y
+* maroon5-02.jpg    ==> https://static.stereogum.com/uploads/2017/11/Maroon-5-1510174520-640x423.jpg
+* maroon5-03.jpg    ==> https://ichef.bbci.co.uk/images/ic/960x540/p04g5j26.jpg
+* maroon5-04.jpg    ==> https://www.liveabout.com/thmb/s9n99NhJM16lvDBxUvJS9UP-MzU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/maroon-5-5b103f953128340036787a58.jpg
+* maroon5-05.png    ==> https://dynamicmedia.livenationinternational.com/Media/x/z/n/08f7e9b3-cc9e-46f3-a038-ed66dbd40c07.png
+* maroon5-06.jpg    ==> https://www.billboard.com/files/styles/article_main_image/public/media/maroon-5-upclose-terryrichardson650.jpg
+* maroon5-07.jpg    ==> http://mindequalsblown.net/wp-content/uploads/2014/06/Maroon-5.jpg
+* maroon5-08.jpg    ==> https://mothership.sg/wp-content/uploads/2018/08/Screen-Shot-2018-08-29-at-12.50.35-AM.png
+* maroon5-09.jpg    ==> https://www.inquisitr.com/wp-content/uploads/2019/02/Maroon-5-1.jpg
+
 
 #### Videos
 1. maroon 5 - sugar                          ==> https://youtu.be/09R8_2nJtjg
