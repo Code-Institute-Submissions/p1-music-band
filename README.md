@@ -48,6 +48,7 @@ This section should describe the process you went through to deploy the project 
 
 
 ## Credits
+* w3schools.com   ==> Online web tutorials, inspirations and samples
 
 
 ## Content
