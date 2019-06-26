@@ -46,27 +46,32 @@
 }
 
 /* --- Wallpaper in different web pages --- */
-/* home.html */
+/* home.html background image */
 #home {
     background-image: url("images/maroon5-wall.jpg");
 }
 
-/* contact.html */
+/* about.html background image */
+#about {
+    background-image: url("images/aboutus-wall.jpg");
+}
+
+/* contact.html background image */
 #contact {
     background-image: url("images/contact-wall.jpg");
 }
 
-/* videos.html */
+/* videos.html background image */
 #videos {
     background-image: url("images/videos-wall.jpg");
 }
 
-/* music.html */
+/* music.html background image*/
 #music {
     background-image: url("images/music-wall.jpg");
 }
 
-/* photos.html */
+/* photos.html background image */
 #photos {
     background-image: url("images/photos-wall.jpg");
 }
@@ -74,6 +79,7 @@
 /* --- Attributes specific in different pages ---*/
 /* --- about.html --- */
 #about article div {
+    color: white;
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
     text-align: justify;
@@ -132,5 +138,6 @@ iframe {
 }
 
 h1 {
-    font-family: 'Quicksand', sans-serif;    
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
 }
