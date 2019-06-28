@@ -1,44 +1,49 @@
 /* --- Fonts from Google --- */
+
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 
 
 /* --- Styling code from below onward --- */
+
 /* --- ids --- */
+
 #sidebar {
     position: fixed;
     top: 0;
-    
+
     min-width: 300px;
     max-width: 300px;
     height: 100vh;
-    
+
     background-color: #100F0D;
-    
+
 }
 
 #navbar {
     margin: 0 auto;
     width: 300px;
     height: 500px;
-    
+
     top: 50%;
     transform: translateY(-50%);
 }
+
 #navbar a {
     color: white;
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
-    
+
     display: block;
     text-decoration: none;
     text-align: center;
-    
+
     padding: 10px 0;
 }
+
 #navbar a:hover {
     color: yellow;
     font-weight: bolder;
-    
+
 }
 
 #m-logo {
@@ -46,77 +51,89 @@
 }
 
 /* --- Wallpaper in different web pages --- */
+
 /* home.html background image */
+
 #home {
     background-image: url("images/maroon5-wall.jpg");
 }
 
 /* about.html background image */
+
 #about {
     background-image: url("images/aboutus-wall.jpg");
 }
 
 /* contact.html background image */
+
 #contact {
     background-image: url("images/contact-wall.jpg");
 }
 
 /* videos.html background image */
+
 #videos {
     background-image: url("images/videos-wall.jpg");
 }
 
 /* music.html background image*/
+
 #music {
     background-image: url("images/music-wall.jpg");
 }
 
 /* photos.html background image */
+
 #photos {
     background-image: url("images/photos-wall.jpg");
 }
 
 #photos .row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 10px;
-  
-  margin-bottom: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+
+    margin-bottom: 25px;
 }
 
 /* Create two equal columns that sits next to each other */
+
 #photos .column {
-  flex: 50%;
-  max-width: 50%;
-  padding: 0 10px;
-  
-  text-align: center;
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 10px;
+
+    text-align: center;
 }
 
 #photos .column img {
-  width: 100%;
-  margin-top: 10px;
-  
-  vertical-align: middle;
+    width: 100%;
+    margin-top: 10px;
+
+    vertical-align: middle;
 }
 
 
 /* --- Attributes specific in different pages ---*/
+
 /* --- about.html --- */
+
 #about article div {
     color: white;
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
     text-align: justify;
-    
+
     position: absolute;
     top: 10%;
     left: 10%;
     transform: translate(-5%, -5%);
 }
+
 #about article div h1 {
     margin-bottom: 25px;
 }
+
 #about article div hr {
     margin: 50px auto;
 }
@@ -126,48 +143,75 @@
 }
 
 #spotify-list iframe {
-    
+
     width: 600px;
     height: 540px;
-    
+
     margin: 25px 30px;
 }
 
 /* --- classes --- */
+
 .contact-form {
+    
+    color: white;
     font-family: 'Quicksand', sans-serif;
-    
-    width: 1000px;
-    background-color: white;
-    
+
+    width: 800px;
+    background-color: rgba(0, 0, 0, 0.5);
+
     position: relative;
     margin: 0 auto;
     transform: translateY(-50%);
     top: 50%;
-    
+
     padding: 30px;
     border-radius: 10px;
+}
+
+.contact-form hr {
     
-    opacity: 0.95;
+    height: 1px;
+    /* margin-bottom: 30px; */
+    
+    color: black;
+    background-color: black;
+    border: none;
+}
+
+.contact-form textarea {
+
+    height: 200px;
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    
+    color: white;
+    background-color: black;
 }
 
 /* --- General attributes --- */
+
 main {
     /*color: khaki;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
     overflow-x: hidden;
     overflow-y: scroll;
     position: absolute;
-    
+
     margin-left: 300px;
     padding: 0;
     height: 100vh;
 }
 
 /* --- For the video frames in videos.html page --- */
+
 iframe {
     width: 450px;
     height: 315px;
@@ -177,3 +221,4 @@ h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
 }
+
