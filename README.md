@@ -28,28 +28,43 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-
 ## Features Left to Implement
 1. Contact Form
 2. iFrame for showing embedded videos from youtube
 3. Dynamic frame photos
 
-
 ## Technologies Used
-1. HTML         (Webpage Structure)
-2. CSS          (Webpage Styling)
-3. Cloud9       (Online IDE)
+<table>
+    <tr>
+        <th>#</th>
+        <th>Technology</th>
+        <th>Remarks</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>HTML</td>
+        <td>Webpage Structure</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>CSS</td>
+        <td>Webpage Styling</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>AWS Cloud9</td>
+        <td>Online IDE</td>
+    </tr>
+</table>
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
+< any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet. >
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-
 ## Credits
-* w3schools.com   ==> Online web tutorials, inspirations and samples
-
+1. w3schools.com | Online web tutorials, inspirations and samples
+2. Pexels.com | Provided free high-definition photos
 
 ## Content
 The "Lorem Ipsum" text uses a generator that comes from this site ==> https://www.lipsum.com/feed/html
@@ -75,27 +90,116 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
 
 
 #### Videos
-1. maroon 5 - sugar                          ==> https://youtu.be/09R8_2nJtjg
-2. maroon 5 - animals                        ==> https://youtu.be/qpgTC9MDx1o
-3. maroon 5 - this love                      ==> https://youtu.be/XPpTgCho5ZA
-4. maroon 5 - i won't go home without you    ==> https://youtu.be/VlMEGBsw6j8
-5. maroon 5 - love somebody                  ==> https://youtu.be/MU8B4XDI3Uw
-6. maroon 5 - one more night                 ==> https://youtu.be/fwK7ggA3-bU
-7. maroon 5 - she will be loved              ==> https://youtu.be/nIjVuRTm-dc
-8. maroon 5 - misery                         ==> https://youtu.be/6g6g2mvItp4
-9. maroon 5 - moves like jagger              ==> https://youtu.be/iEPTlhBmwRg
+<table>
+    <tr>
+        <th>#</th>
+        <th>Audio</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Maroon 5 - Sugar</td>
+        <td><a href="https://youtu.be/09R8_2nJtjg">Click here</a></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Maroon 5 - Animals</td>
+        <td><a href="https://youtu.be/qpgTC9MDx1o">Click here</a></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Maroon 5 - This love</td>
+        <td><a href="https://youtu.be/XPpTgCho5ZA">Click here</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Maroon 5 - I won't go home without you</td>
+        <td><a href="https://youtu.be/VlMEGBsw6j8">Click here</a></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Maroon 5 - Love somebody</td>
+        <td><a href="https://youtu.be/MU8B4XDI3Uw">Click here</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Maroon 5 - One more night</td>
+        <td><a href="https://youtu.be/fwK7ggA3-bU">Click here</a></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Maroon 5 - She will be loved</td>
+        <td><a href="https://youtu.be/nIjVuRTm-dc">Click here</a></td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Maroon 5 - Misery</td>
+        <td><a href="https://youtu.be/6g6g2mvItp4">Click here</a></td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Maroon 5 - Moves like jagger</td>
+        <td><a href="https://youtu.be/iEPTlhBmwRg">Click here</a></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
-#### Audios
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+#### Audio
+<table>
+    <tr>
+        <th>#</th>
+        <th>Audio</th>
+        <th>Remarks</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ## Acknowledgements
-1. Pexels.com       ==> Provided free high-definition photos
-2. w3schools.com    ==> HTML & CSS reference site
+<table>
+  <tr>
+    <th>#</th>
+    <th>Item</th>
+    <th>Remarks</th> 
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>CSS Placeholder Color - Basic</td>
+    <td>Inspiration and reference on changing placeholder color on focus to input tag fields</td>
+    <td><a href="https://codepen.io/htmlcolorcodes/pen/xwKaNj">Click here</a></td>
+  </tr>
+  <tr>
+    <td>2</td>    
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
