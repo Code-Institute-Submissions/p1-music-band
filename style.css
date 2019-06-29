@@ -92,7 +92,7 @@
 #photos .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 10px;
+    padding: 0 20px;
 
     margin-bottom: 25px;
 }
@@ -102,7 +102,6 @@
 #photos .column {
     flex: 50%;
     max-width: 50%;
-    padding: 0 10px;
 
     text-align: center;
 }
@@ -110,10 +109,20 @@
 #photos .column img {
     width: 100%;
     margin-top: 10px;
+    margin-bottom: 20px;
 
     vertical-align: middle;
 }
 
+#photos .column img:hover {
+    
+    transform: scale(1.2);
+    transition: transform .75s;
+}
+
+#photos div {
+    padding: 0 20px;
+}
 
 /* --- Attributes specific in different pages ---*/
 
@@ -137,7 +146,7 @@
 
 #about article hr {
     margin-top: 50px;
-    
+
     height: 2px;
     background-color: white;
     border: none;
@@ -209,7 +218,7 @@
 
 .contact-form input:focus::-webkit-input-placeholder,
 .contact-form textarea:focus::-webkit-input-placeholder {
-    
+
     color: inherit !important;
 }
 
