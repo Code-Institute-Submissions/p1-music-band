@@ -21,8 +21,8 @@
 
 #navbar {
     margin: 0 auto;
-    width: 300px;
-    height: 500px;
+    width: 400px;
+    height: auto;
 
     top: 50%;
     transform: translateY(-50%);
@@ -30,7 +30,7 @@
 
 #navbar a {
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Quicksand', sans-serif;
 
     display: block;
@@ -47,7 +47,8 @@
 }
 
 #m-logo {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 /* --- Wallpaper in different web pages --- */
@@ -118,10 +119,10 @@
 
 /* --- about.html --- */
 
-#about article div {
+#about article {
     color: white;
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     text-align: justify;
 
     position: absolute;
@@ -130,12 +131,16 @@
     transform: translate(-5%, -5%);
 }
 
-#about article div h1 {
+#about article h1 {
     margin-bottom: 25px;
 }
 
-#about article div hr {
-    margin: 50px auto;
+#about article hr {
+    margin-top: 50px;
+    
+    height: 2px;
+    background-color: white;
+    border: none;
 }
 
 #spotify-list {
@@ -153,12 +158,12 @@
 /* --- classes --- */
 
 .contact-form {
-    
+
     color: white;
     font-family: 'Quicksand', sans-serif;
 
     width: 800px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.2);
 
     position: relative;
     margin: 0 auto;
@@ -170,12 +175,9 @@
 }
 
 .contact-form hr {
-    
-    height: 1px;
-    /* margin-bottom: 30px; */
-    
-    color: black;
-    background-color: black;
+
+    height: 2px;
+    background-color: white;
     border: none;
 }
 
@@ -186,12 +188,35 @@
     max-height: 200px;
 }
 
+/* --- input and textarea fields color --- */
+
 .contact-form input,
 .contact-form textarea {
-    
-    color: white;
-    background-color: black;
+
+    background-color: white;
 }
+
+/* --- input and textarea fields color changed during focus --- */
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+
+    color: gold;
+    font-weight: bold;
+    background-color: purple;
+
+}
+
+.contact-form input:focus::-webkit-input-placeholder,
+.contact-form textarea:focus::-webkit-input-placeholder {
+    
+    color: inherit !important;
+}
+
+.contact-form label {
+    font-size: 20px;
+}
+
 
 /* --- General attributes --- */
 
@@ -221,4 +246,3 @@ h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
 }
-
