@@ -1,14 +1,9 @@
 # Project Name
-Maroon 5 - A introduction website to celebrate the band's presence in the world.
+Music-Artist - An imitation to Maroon 5's official website.
 
 
 ## UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+The purpose behind to built this website is to serve the general public for their interests in reaching out towards the band, in terms of sourcing their latest music, videos and photos, and of course, to enquire about their tour dates and ticketing issues.
 
 
 ## Features
@@ -22,16 +17,19 @@ In this section, you should go over the different parts of your project, and des
 
 
 ## Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+1. Play youtube videos
+2. Play spotify audio playlist
+3. Zoom out photos when hover
+4. Contact form to allow members of the public to make enquiry
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#### Future Implementations
+1. Tour dates dashboard
+2. Mobile responsiveness
+
 
 ## Features Left to Implement
-1. Contact Form
-2. iFrame for showing embedded videos from youtube
-3. Dynamic frame photos
+1. Tour dates dashboard
+2. Mobile responsiveness
 
 ## Technologies Used
 <table>
@@ -57,37 +55,77 @@ In addition, you may also use this section to discuss plans for additional featu
     </tr>
 </table>
 
-< any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet. >
+##### Interesting Bugs and Problems
+
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+* Step 1 - Set up an repository of your project on Github
+* Step 2 - Push the updates from your IDE
+* Step 3 - Switch on the live function website on Github
+* Step 4 - Your website is live!
 
 ## Credits
-1. w3schools.com | Online web tutorials, inspirations and samples
-2. Pexels.com | Provided free high-definition photos
+<table>
+    <tr>
+        <th>#</th>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>w3schools.com</td>
+        <td>Online web tutorials, inspirations and samples</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Pexels.com</td>
+        <td>Provided free high-definition photos</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Maroon 5 website</td>
+        <td>Main website</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>CodePen.io</td>
+        <td>Online Editor + Forum</td>
+    </tr>    
+</table>
 
-## Content
-The "Lorem Ipsum" text uses a generator that comes from this site ==> https://www.lipsum.com/feed/html
 
+### Content
+* Taken the first 4 paragraphs of introduction as reference from Maroon 5's wikipedia to the about.html page<a href="https://en.wikipedia.org/wiki/Maroon_5">Click here</a>
 
-## Media
-#### Photos
-* maroon5-wall.jpg  ==> https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200
-* maroon5-logo.jpg  ==> https://weheartit.com/entry/165218754
-* contact-wall.jpg  ==> https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/
-* videos-wall.jpg   ==> https://www.pexels.com/photo/people-in-concert-1763075/
-* music-wall.jpg    ==> https://www.pexels.com/photo/macro-shot-audio-equalizer-744318/
-* photos-wall.jpg   ==> https://www.pexels.com/photo/group-of-people-inside-disco-house-167491/
-* maroon5-01.jpg    ==> https://www.grammy.com/sites/com/files/styles/image_landscape_hero/public/maroon5-hero-454113014.jpg?itok=cMFbww2y
-* maroon5-02.jpg    ==> https://static.stereogum.com/uploads/2017/11/Maroon-5-1510174520-640x423.jpg
-* maroon5-03.jpg    ==> https://ichef.bbci.co.uk/images/ic/960x540/p04g5j26.jpg
-* maroon5-04.jpg    ==> https://www.liveabout.com/thmb/s9n99NhJM16lvDBxUvJS9UP-MzU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/maroon-5-5b103f953128340036787a58.jpg
-* maroon5-05.png    ==> https://dynamicmedia.livenationinternational.com/Media/x/z/n/08f7e9b3-cc9e-46f3-a038-ed66dbd40c07.png
-* maroon5-06.jpg    ==> https://www.billboard.com/files/styles/article_main_image/public/media/maroon-5-upclose-terryrichardson650.jpg
-* maroon5-07.jpg    ==> http://mindequalsblown.net/wp-content/uploads/2014/06/Maroon-5.jpg
-* maroon5-08.jpg    ==> https://mothership.sg/wp-content/uploads/2018/08/Screen-Shot-2018-08-29-at-12.50.35-AM.png
-* maroon5-09.jpg    ==> https://www.inquisitr.com/wp-content/uploads/2019/02/Maroon-5-1.jpg
+### Media
+##### Image resources
+* maroon5-wall.jpg  ==> <a href="https://wallpaperscraft.com/download/maroon_5_band_members_look_sign_2346/1920x1200">Click here</a>
+* maroon5-logo.jpg  ==> <a href="https://weheartit.com/entry/165218754">Click here</a>
+* aboutus-wall.jpg  ==> <a href="https://www.pexels.com/photo/group-of-people-1587927/">Click here</a>
+* contact-wall.jpg  ==> <a href="https://www.pexels.com/photo/group-of-person-watching-concert-outdoors-1540343/">Click here</a>
+* videos-wall.jpg   ==> <a href="https://www.pexels.com/photo/people-in-concert-1763075/">Click here</a>
+* music-wall.jpg    ==> <a href="https://www.pexels.com/photo/macro-shot-audio-equalizer-744318/">Click here</a>
+* photos-wall.jpg   ==> <a href="https://www.pexels.com/photo/group-of-people-inside-disco-house-167491/">Click here</a>
+* maroon5-01.jpg    ==> <a href="https://www.grammy.com/sites/com/files/styles/image_landscape_hero/public/maroon5-hero-454113014.jpg?itok=cMFbww2y">Click here</a>
+* maroon5-02.jpg    ==> <a href="https://static.stereogum.com/uploads/2017/11/Maroon-5-1510174520-640x423.jpg">Click here</a>
+* maroon5-03.jpg    ==> <a href="https://ichef.bbci.co.uk/images/ic/960x540/p04g5j26.jpg">Click here</a>
+* maroon5-04.jpg    ==> <a href="https://www.liveabout.com/thmb/s9n99NhJM16lvDBxUvJS9UP-MzU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/maroon-5-5b103f953128340036787a58.jpg">Click here</a>
+* maroon5-05.png    ==> <a href="https://dynamicmedia.livenationinternational.com/Media/x/z/n/08f7e9b3-cc9e-46f3-a038-ed66dbd40c07.png">Click here</a>
+* maroon5-06.jpg    ==> <a href="https://www.billboard.com/files/styles/article_main_image/public/media/maroon-5-upclose-terryrichardson650.jpg">Click here</a>
+* maroon5-07.jpg    ==> <a href="http://mindequalsblown.net/wp-content/uploads/2014/06/Maroon-5.jpg">Click here</a>
+* maroon5-08.jpg    ==> <a href="https://mothership.sg/wp-content/uploads/2018/08/Screen-Shot-2018-08-29-at-12.50.35-AM.png">Click here</a>
+* maroon5-09.jpg    ==> <a href="https://www.inquisitr.com/wp-content/uploads/2019/02/Maroon-5-1.jpg">Click here</a>
 
+##### Social Media icons
+* fb-icon.jpg       ==> <a href="https://www.iconfinder.com/iconsets/social-rounded-2?utm_source=sharing-feature&utm_medium=social&utm_campaign=sharing-feature&utm_content=link">Click here</a>
+* twitter-icon.png  ==> <a href="https://www.iconfinder.com/iconsets/social-rounded-2?utm_source=sharing-feature&utm_medium=social&utm_campaign=sharing-feature&utm_content=link">Click here</a>
+* youtube-icon.png  ==> <a href="https://www.iconfinder.com/iconsets/social-rounded-2?utm_source=sharing-feature&utm_medium=social&utm_campaign=sharing-feature&utm_content=link">Click here</a>
+
+##### Album Covers
+* m5-album-01.png   ==> <a href="https://images.genius.com/a581c79e3201364cb5f11f3bd1b5f161.1000x1000x1.png">Click here</a>
+* m5-album-02.jpg   ==> <a href="https://www.udiscovermusic.com/wp-content/uploads/2018/05/Maroon-5-V-Album-Cover-Web-Optimised-820.jpg">Click here</a>
+* m5-album-03.jpg   ==> <a href="https://is5-ssl.mzstatic.com/image/thumb/Music/v4/9d/96/3b/9d963b68-20cf-ed4b-00c7-b49c6a719fdf/source/1200x1200bb.jpg">Click here</a>
+* m5-album-04.jpg   ==> <a href="https://img.discogs.com/FlE1Ez8wDD0Im5jJc9Spdj_R0FU=/fit-in/549x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994266-1404494929-8536.jpeg.jpg">Click here</a>
 
 #### Videos
 <table>
@@ -141,11 +179,6 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
         <td>Maroon 5 - Moves like jagger</td>
         <td><a href="https://youtu.be/iEPTlhBmwRg">Click here</a></td>
     </tr>
-    <tr>
-        <td>10</td>
-        <td></td>
-        <td></td>
-    </tr>
 </table>
 
 #### Audio
@@ -153,30 +186,31 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
     <tr>
         <th>#</th>
         <th>Audio</th>
-        <th>Remarks</th>
         <th>Link</th>
     </tr>
     <tr>
         <td>1</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Red Pill Blue (Deluxe)</td>
+        <td><a href="https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh?si=kJur2ohsSXavoUgBPGWXdw">Click here</a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>V (Asia Tour Edition)</td>
+        <td><a href="https://open.spotify.com/album/6LtzdMGhOCh9s6sssWrpuD?si=JKWgMjzvQyKEjBVDiTHs3A">Click here</a></td>
     </tr>
     <tr>
         <td>3</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Overexposed (Deluxe)</td>
+        <td><a href="https://open.spotify.com/album/6XYL7jVgFaxD1X7F8IMO2b?si=DpPYtkToRkmi4g4g0e5bFg">Click here</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Hands All Over Tour Edition (Asia Deluxe Repack version)</td>
+        <td><a href="https://open.spotify.com/album/6XYL7jVgFaxD1X7F8IMO2b?si=DpPYtkToRkmi4g4g0e5bFg">Click here</a></td>
     </tr>
 </table>
 
-## Acknowledgements
+### Acknowledgements
 <table>
   <tr>
     <th>#</th>
@@ -189,17 +223,5 @@ The "Lorem Ipsum" text uses a generator that comes from this site ==> https://ww
     <td>CSS Placeholder Color - Basic</td>
     <td>Inspiration and reference on changing placeholder color on focus to input tag fields</td>
     <td><a href="https://codepen.io/htmlcolorcodes/pen/xwKaNj">Click here</a></td>
-  </tr>
-  <tr>
-    <td>2</td>    
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
