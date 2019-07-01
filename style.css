@@ -20,18 +20,18 @@
 }
 
 #navbar {
-    
+
     width: 400px;
     height: auto;
 
     margin: 0 auto;
     top: 50%;
-    
+
     transform: translateY(-50%);
 }
 
 #navbar a {
-    
+
     color: white;
     font-size: 25px;
     font-family: 'Quicksand', sans-serif;
@@ -44,13 +44,13 @@
 }
 
 #navbar a:hover {
-    
+
     color: yellow;
     font-weight: bolder;
 }
 
 #m-logo {
-    
+
     margin-bottom: 20px;
     text-align: center;
 }
@@ -59,31 +59,37 @@
 /* --- Wallpaper in different web pages --- */
 
 /* home.html background image */
+
 #home {
     background-image: url("images/maroon5-wall.jpg");
 }
 
 /* about.html background image */
+
 #about {
     background-image: url("images/aboutus-wall.jpg");
 }
 
 /* contact.html background image */
+
 #contact {
     background-image: url("images/contact-wall.jpg");
 }
 
 /* videos.html background image */
+
 #videos {
     background-image: url("images/videos-wall.jpg");
 }
 
 /* music.html background image*/
+
 #music {
     background-image: url("images/music-wall.jpg");
 }
 
 /* photos.html background image */
+
 #photos {
     background-image: url("images/photos-wall.jpg");
 }
@@ -97,6 +103,7 @@
 }
 
 /* Create two equal columns that sits next to each other */
+
 #photos .column {
     flex: 50%;
     max-width: 50%;
@@ -113,7 +120,7 @@
 }
 
 #photos .column img:hover {
-    
+
     transform: scale(1.2);
     transition: transform .75s;
 }
@@ -125,6 +132,7 @@
 /* --- Attributes specific in different pages ---*/
 
 /* --- about.html --- */
+
 #about article {
     color: white;
     font-family: 'Quicksand', sans-serif;
@@ -136,10 +144,14 @@
     left: 10%;
     transform: translate(-5%, -5%);
 }
+
 #about article h1 {
+    
     margin-bottom: 25px;
 }
+
 #about article hr {
+    
     margin-top: 50px;
 
     height: 2px;
@@ -150,13 +162,25 @@
 #spotify-list {
     
     text-align: center;
+    
 }
+
+#spotify-list .row {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#spotify-list img {
+    width: 500px;
+    height: 500px;
+    
+    vertical-align: top;
+}
+
 #spotify-list iframe {
 
-    width: 600px;
-    height: 540px;
-
-    margin: 25px 30px;
+    width: 500px;
+    height: 500px;
 }
 
 #social {
@@ -166,9 +190,9 @@
 }
 
 #social a {
-    display: inline;
+    display: inline-block;
     padding: 0 5px;
-    
+
     width: inherit;
     height: inherit;
 }
@@ -179,6 +203,7 @@
 }
 
 /* --- Classes in all web pages --- */
+
 .contact-form {
 
     color: white;
@@ -204,13 +229,14 @@
 }
 
 .contact-form textarea {
-    
+
     height: 200px;
     min-height: 200px;
     max-height: 200px;
 }
 
 /* --- input and textarea fields color --- */
+
 .contact-form input,
 .contact-form textarea {
 
@@ -218,6 +244,7 @@
 }
 
 /* --- input and textarea fields color changed during focus --- */
+
 .contact-form input:focus,
 .contact-form textarea:focus {
 
@@ -238,6 +265,7 @@
 
 
 /* --- General attributes --- */
+
 main {
     /*color: khaki;*/
     background-position: center;
@@ -254,6 +282,7 @@ main {
 }
 
 /* --- For the video frames in videos.html page --- */
+
 iframe {
     width: 450px;
     height: 315px;
