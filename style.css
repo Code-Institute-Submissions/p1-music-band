@@ -15,7 +15,8 @@
     max-width: 300px;
     height: 100vh;
 
-    background-color: #100F0D;
+    background: linear-gradient(to bottom, #6600ff 0%, #ff3399 100%);
+
 
 }
 
@@ -133,25 +134,21 @@
 
 /* --- about.html --- */
 
-#about article {
+#about div {
+
     color: white;
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
     text-align: justify;
-
-    position: absolute;
-    top: 10%;
-    left: 10%;
-    transform: translate(-5%, -5%);
 }
 
-#about article h1 {
-    
+#about h1 {
+
     margin-bottom: 25px;
 }
 
-#about article hr {
-    
+#about hr {
+
     margin-top: 50px;
 
     height: 2px;
@@ -160,9 +157,8 @@
 }
 
 #spotify-list {
-    
+
     text-align: center;
-    
 }
 
 #spotify-list .row {
@@ -173,14 +169,17 @@
 #spotify-list img {
     width: 500px;
     height: 500px;
-    
+
     vertical-align: top;
+    margin: 0 25px 50px;
 }
 
 #spotify-list iframe {
 
     width: 500px;
     height: 500px;
+
+    margin: 0 25px;
 }
 
 #social {
@@ -291,4 +290,5 @@ iframe {
 h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
+    color: white;
 }
